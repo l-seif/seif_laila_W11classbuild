@@ -17,3 +17,7 @@ main {
     flex-wrap: wrap;
 }
 
+header > h1, footer, h2{
+    text-align: center;
+    padding: 10px;
+}
